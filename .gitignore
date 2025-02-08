@@ -1,0 +1,6 @@
+# Data files
+data/*.pkl
+data/*.xml
+
+# Attendance files
+Attendance/*.csv
